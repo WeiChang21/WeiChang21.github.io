@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>第二篇文章</title>
+      <link>https://WeiChang21.github.io/blog/test2/</link>
+      <pubDate>Fri, 26 Aug 2022 17:16:50 +0800</pubDate>
+      
+      <guid>https://WeiChang21.github.io/blog/test2/</guid>
+      <description>安安 System.out.println(&amp;#34;Hello World!&amp;#34;); System.out.println(&amp;#34;Hello World!&amp;#34;); System.out.println(&amp;#34;Hello World!&amp;#34;); </description>
+    </item>
+    
+    <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>https://WeiChang21.github.io/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
